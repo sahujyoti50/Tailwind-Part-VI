@@ -3,4 +3,4 @@ Hover, Focus &amp; Other States in Tailwind CSS
 
  Preview:
  
- ![image](https://user-images.githubusercontent.com/15225177/223698981-396986ae-e80a-47b6-8315-bf9f2811b018.png)
+![image](https://user-images.githubusercontent.com/15225177/223700024-97b0bafe-3cfb-4af9-803a-0dea0a37b2a7.png)
